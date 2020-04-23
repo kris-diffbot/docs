@@ -12,11 +12,11 @@ _Please note: person profile search and data enrichment is not yet supported fro
 
 ## Description
 
-Version 1.1.0.0 of the plug-in supports integration with the Diffbot Enhance API for data enrichment of organization firmographic profiles and integration with the Diffbot Knowledge Graph Search API in support of discovery of companies matching size, industry, founding date, and/or financial criteria. 
+Version 1.3.1.0 of the plug-in supports integration with the Diffbot Enhance API for data enrichment of organization firmographic profiles and integration with the Diffbot Knowledge Graph Search API in support of discovery of companies matching size, industry, founding date, and/or financial criteria and in support of identifying news articles that match date, source, topic, and other criteria. 
 
 How much data are we talking about?
 
-Enrich or search organizational data with access to over 180M profiles from Diffbot’s Knowledge Graph. Start with a list of entities or a set of criteria. End with a deep dive into organizational data. Pull data on one or a hundred organizations with the click of a button.
+Enrich or search organizational data with access to over 180M profiles from Diffbot’s Knowledge Graph. Start with a list of entities or a set of criteria. End with a deep dive into organizational data. Pull data on one or a hundred organizations with the click of a button. Article data extracted from hundreds of thousands of unique online publications and news sites are added to the Knowledge Graph and linked to Organizations in the graph on a continuous basis, 24x7, 365.
 
 How does it work?
 
@@ -58,7 +58,7 @@ First click ‘My Add-ins’. If you do not see the Diffbot Add-in listed, then 
 
 ![Adding a new Add-in](/img/dql/excel6.png)
 
-If successful, you will be taken to the spreadsheet Home where you can tap the Diffbot icon on the far right to begin.
+If successful, you will be taken to the spreadsheet Home where you can tap the Diffbot icon on the far right of the open sheet to begin.
 
 ![](/img/dql/excel7.png)
 
@@ -246,9 +246,9 @@ The Add-In will return the following organization attribute details by default (
 - Estimated Number of Employees (based on company filings)
 - Description of Organization
 - Founding Date
-- Social Media Profile URLs (LinkedIn, Crunchbase, Facebook)
+- Organization Social Media Profile handles and URLs (Angellist, LinkedIn, Crunchbase, Facebook, Twitter)
 - Websites (main site, blog, Wikipedia page)
-- Location (organization headquarters location)
+- Location (organization headquarters address)
 - Financial Data (yearly revenues, quarterly revenues, stock symbol, stock exchange, total investments, IPO date)
 - List of Industries associated with that Organization
 - Key People currently linked to/accountable for the organization (CEOs, Founders, Board Members)
