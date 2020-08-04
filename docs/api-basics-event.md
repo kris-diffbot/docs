@@ -1,7 +1,7 @@
 ---
 id: api-basics-event
 title: Events API Basic Usage
-sidebar_label: Basic Usage
+sidebar_label: Usage
 description: Basic usage of the Diffbot Events API
 ---
 
