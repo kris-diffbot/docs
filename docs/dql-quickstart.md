@@ -45,8 +45,8 @@ Click here first, after you’ve logged in to the Dashboard: [Articles containin
 
 - [type:Article text:"2020 Presidential Race" sortBy:date](https://app.diffbot.com/search/?query=type%3AArticle+text%3A%222020+Presidential+Race%22+sortBy%3Adate&from=0&size=50&active_tab=query)
     - Search for articles whose text includes "2020 Presidential Race", sorted by date
-- [type:Article title:"Michael Bloomberg" sortBy:date](https://app.diffbot.com/search/?query=type%3AArticle+title%3A%22Michael+Bloomberg%22+sortBy%3Adate&from=0&size=50&active_tab=query)
-    - Search articles with "Michael Bloomberg" in the title.
+    - [type:Article title:"COVID" sortBy:date](https://app.diffbot.com/search/?query=type%3AArticle+title%3A%22COVID%22+sortBy%3Adate&from=0&size=50&active_tab=query)
+    - Search for articles whose title includes "COVID", sorted by date
 - [type:Article tags.label:"health care" text:"universal coverage" sortBy:date](https://app.diffbot.com/search/?query=type%3AArticle+tags.label%3A%22health+care%22+text%3A%22universal+coverage%22+sortBy%3Adate&from=0&size=50&active_tab=query)
     - Search articles tagged health care with the phrase "universal coverage" in the text sorted by date.
 - [type:Article tags.label:"US immigration" sortBy:date](https://app.diffbot.com/search/?query=type%3AArticle+tags.label%3A%22US+immigration%22+sortBy%3Adate&from=0&size=50&active_tab=query)
